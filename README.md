@@ -1,4 +1,4 @@
-# cricket_testcareer_ranking_program
+# cricket_career_ranking_program
 Input the stats of a player in TEST match cricket and the program will out the players' rankings with a respective score alongside it. 
 
 There are 3 different types of "positions in cricket"
@@ -13,4 +13,6 @@ There are 3 different types of "positions in cricket"
   - ODI cricket (50 overs for each side, One Day match)
   - T20 cricket(20 overs for each side, shortest format)
 
-Each file is listed in the format of (position_format_grades) for accessibility and to make it easier to find. 
+Each code file is listed in the format of (position_format_grades) for accessibility and to make it easier to find. 
+
+Using that code I ran it through a spreadsheet of data that I collected and used that to output a grade for every test batter, as well as printing a top 10 best TEST batters of all time list. 
